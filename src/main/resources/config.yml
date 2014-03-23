@@ -1,0 +1,25 @@
+###
+# The title of the guide.
+###
+guide-title: '&cTitle of Guide.'
+
+###
+# The author of the guide.
+###
+guide-author: '&4Author of Guide.'
+
+###
+# The display name (in the inv) of the guide.
+###
+guide-display-name: '&bDisplay Name of Guide.'
+
+###
+# The pages of the guide.
+##
+pages:
+  - '&aThis is page 1.'
+  - '&bThis is page 2.'
+  - '&cThis is page 3.'
+  - '&dThis is page 4.'
+  - '&eThis is page 5.'
+  - '&fThis is page 6.'

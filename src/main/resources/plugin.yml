@@ -1,0 +1,14 @@
+name: UserGuide
+main: com.rylinaux.userguide.UserGuide
+version: 1.0.0
+author: rylinaux
+
+commands:
+  guide:
+    description: Give the user the guide book.
+    usage: /guide
+
+permissions:
+  userguide.use:
+    description: Allow the user to give themself a guide.
+    default: OP
